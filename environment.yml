@@ -1,0 +1,8 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.12.*
+  - ipykernel
+  - matplotlib
+  - scikit-learn
